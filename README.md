@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nitishkovalam
-- 👀 I’m interested in F1, COntrols, Robotics, Flight Physics and Space Science
+- 👀 I’m interested in F1, Controls, Robotics, Flight Physics and Space Science
 - 🌱 I’m currently learning advanced control design 
 - - 📫 How to reach me - drop in a mail at nitishkovalam@hotmail.com
 
